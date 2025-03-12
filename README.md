@@ -31,14 +31,6 @@ If you're looking for a motivated, versatile, and passionate team player ready t
 
 ---
 
-## My Projects 🚀
-| Project Name  | Description | Technologies Used |
-|---------------|-------------|-------------------|
-| [Project 1](https://github.com/yourusername/project1) | A brief description of the project. | Python, Flask |
-| [Project 2](https://github.com/yourusername/project2) | A brief description of the project. | React, Node.js |
-
----
-
 ## Stats 📊
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoorali22&show_icons=true&theme=radical)
 
