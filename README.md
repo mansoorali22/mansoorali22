@@ -40,7 +40,7 @@ I'm an **AI/ML Engineer** with strong expertise in **Natural Language Processing
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorali22\&layout=compact\&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoorali22&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
