@@ -2,11 +2,13 @@
 
 # 👋 Hi, I'm Mansoor Ali
 
-## 🚀 AI/ML Engineer | COO at MASK Inc.
+## 🚀 AI/ML Engineer
 
 </div>
 
-I'm an **AI/ML Engineer** with strong expertise in **Natural Language Processing (NLP)**, **Deep Learning**, and **Large Language Models (LLMs)**. As the **Chief Operating Officer (COO)** at *MASK Inc.*, I lead the development and deployment of cutting-edge AI solutions to solve real-world problems. MASK Inc. delivers AI/ML-driven applications that solve real business challenges with smart, scalable solutions. I’m passionate about building scalable AI architectures and delivering intelligent, efficient systems.
+I'm an **AI/ML Engineer** with deep expertise in **Natural Language Processing (NLP)**, **Deep Learning**, and **Large Language Models (LLMs)**. I specialize in building intelligent, scalable systems that turn complex data into actionable insights. My focus is on delivering production-ready AI solutions—whether it's fine-tuning transformer models, developing end-to-end NLP pipelines, or deploying efficient deep learning architectures.
+
+I bring a strong understanding of both research and practical implementation, and I'm passionate about creating robust, efficient, and future-proof AI systems that solve real-world problems.
 
 ---
 
