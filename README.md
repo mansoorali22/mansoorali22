@@ -58,7 +58,7 @@ I bring a strong understanding of both research and practical implementation, an
 
 ## 📢 Let's Connect
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:a22.mansoor@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mansoor-ali-151b07229/) ![](https://komarev.com/ghpvc/?username=mansoorali22&color=black)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:a22.mansoor@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mansoor-ali-151b07229/) ![](https://komarev.com/ghpvc/?username=mansoorali22&color=blue)
 
 
 ---
