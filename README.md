@@ -43,21 +43,6 @@ I specialize in building machine learning pipelines, training and deploying cust
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-  ![Mansoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoorali22&show_icons=true&theme=dark)
-  
-</div>
-
-<div align="center">
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoorali22&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 * IBM AI Engineering Professional Certificate
